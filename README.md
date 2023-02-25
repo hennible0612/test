@@ -4,11 +4,14 @@
 	    <img src="./Toast_logo.png"/ width="50%">
 </p>	   
 
-# Voluntain Web Page v2.0
+## 독서 토론 웹
 > 2022-2 WAP WEB-6 <br/> **개발기간: 2022.10 ~ 2022.02**
-
+> 
+## 배포 주소
 > **프론트 서버** : ...<br/>
 > **백엔드 서버** : ...<br/>
+
+## 개발
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
@@ -26,10 +29,6 @@
 	    <sub><b>yunjikwak</sub></a><br />@yunjikwak<a href="https://github.com/yunjikwak" title="Code">
 	    </a>
 	    </td>
-
-
- 
-    
   </tr>
     <tr>
     <td align="center">백엔드 / 프런트엔드</td>
@@ -41,3 +40,11 @@
 </table>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+## 프로젝트 소개
+...
+
+## Stacks
+### Deploy
+
+### 
+
