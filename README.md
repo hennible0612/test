@@ -22,12 +22,12 @@
 	    <sub><b>SeojeongHong</sub></a><br />@SeojeongHong<a href="https://github.com/SeojeongHong" title="Code">
 	    </a>
 	    </td>
-
-
-    <td align="center"><a href="https://github.com/yunjikwak"><img src="https://avatars.githubusercontent.com/u/83887485?v=4" width="100px;" alt=""/><br />
-	    <sub><b>yunjikwak</sub></a><br />@yunjikwak<a href="https://github.com/yunjikwak" title="Code">
+    <td align="center"><a href="https://github.com/SeojeongHong"><img src="https://avatars.githubusercontent.com/u/94052799?v=4" width="100px;" alt=""/><br />
+	    <sub><b>SeojeongHong</sub></a><br />@SeojeongHong<a href="https://github.com/SeojeongHong" title="Code">
 	    </a>
 	    </td>
+
+
  
     
   </tr>
