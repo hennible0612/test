@@ -15,16 +15,18 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/hennible0612"><img src="https://avatars.githubusercontent.com/u/48763809?v=4" width="100px;" alt=""/><br />
-	    <sub><b>SungWoo Hong</sub></a><br />@hennible0612<a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=jeongjaino" title="Code"></a></td>
-    
-    <td align="center"><a href="https://github.com/SeojeongHong"><img src="https://avatars.githubusercontent.com/u/94052799?v=4" width="100px;" alt=""/><br /><sub><b>yunjikwak</b></sub></a><br />@SeojeongHong<a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=SeongHoonC" title="Code"></a></td>
-    
-    <td align="center">
-	    <a href="https://github.com/yunjikwak"><img src="https://avatars.githubusercontent.com/u/83887485?v=4" width="100px;" at=""/><br />
-		    <sub><b>SeojeongHong</b></sub></a>@yunjikwak<br/>
-	    <a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=winocreative" title="Code"></a>
-	  </td>
-
+	    <sub><b>SungWoo Hong</sub></a><br />@hennible0612<a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=jeongjaino" title="Code">
+	    </a>
+	    </td>
+        <td align="center"><a href="https://github.com/hennible0612"><img src="https://avatars.githubusercontent.com/u/48763809?v=4" width="100px;" alt=""/><br />
+	    <sub><b>SungWoo Hong</sub></a><br />@hennible0612<a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=jeongjaino" title="Code">
+	    </a>
+	    </td>
+		    <td align="center"><a href="https://github.com/hennible0612"><img src="https://avatars.githubusercontent.com/u/48763809?v=4" width="100px;" alt=""/><br />
+	    <sub><b>SungWoo Hong</sub></a><br />@hennible0612<a href="https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1/commits/main?author=jeongjaino" title="Code">
+	    </a>
+	    </td>
+ 
     
   </tr>
     <tr>
