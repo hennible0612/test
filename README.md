@@ -54,6 +54,11 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ### Deploy
+![Amazon AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
-### 
+## 화면구성
+
+## 주요 기능
+
+## 아키텍쳐
 
