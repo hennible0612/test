@@ -31,7 +31,7 @@
 	    </td>
   </tr>
     <tr>
-    <td align="center">백엔드 / 프런트엔드</td>
+    <td align="center">백엔드</td>
     <td align="center">백엔드</td>
     <td align="center">프런트엔드</td>
 
