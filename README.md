@@ -63,6 +63,13 @@
 | 강좌 소개 페이지   |  강의 영상 페이지   |  
 | <img width="329" src="https://user-images.githubusercontent.com/50205887/208038737-2b32b7d2-25f4-4949-baf5-83b5c02915a3.png"/>   |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208038965-43a6318a-7b05-44bb-97c8-b08b0495fba7.png"/>     |
 
+## 화면 구성 📺
+| 메인 페이지  |  모든 토론   |
+| :-------------------------------------------: | :------------: |
+|  <img width="329" src="./main-page.png"/> |  <img width="329" src="./모든토론.png"/>|  
+| 토론 댓글   |  토론 생성   |  
+| <img width="329" src="./토론댓글.png"/>   |  <img width="329" src="./토론생성.png"/>     |
+
 ## 주요 기능
 
 ## 아키텍쳐
